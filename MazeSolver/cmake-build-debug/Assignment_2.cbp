@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_2">
+				<Option output="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Assignment_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_2"/>
+					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_2/fast">
+				<Option output="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Assignment_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_2/fast"/>
+					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/mingw64/bin/mingw32-make.exe -f &quot;D:/DataStructuresSourceCode/assignment-2-ck-porter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/main.cpp">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/maze.cpp">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/maze.h">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/position.cpp">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/position.h">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/stack.cpp">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/src/stack.h">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="D:/DataStructuresSourceCode/assignment-2-ck-porter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

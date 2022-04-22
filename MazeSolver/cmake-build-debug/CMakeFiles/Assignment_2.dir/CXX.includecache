@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/maze.cpp
+maze.h
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/maze.h
+vector
+-
+fstream
+-
+
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/maze.h
+position.h
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/position.h
+stack.h
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/stack.h
+
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/position.h
+iostream
+-
+
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/stack.h
+position.h
+D:/DataStructuresSourceCode/assignment-2-ck-porter/src/position.h
+iostream
+-
+
